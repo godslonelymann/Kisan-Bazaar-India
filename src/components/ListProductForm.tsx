@@ -106,7 +106,7 @@ const ListProductForm = () => {
       contactEmail: values.contactEmail || undefined,
       contactWhatsapp: values.contactWhatsapp || undefined,
       dateAdded: new Date().toISOString(),
-      image: "https://images.unsplash.com/photo-1587049352851-8d4e89133924?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+      image: "https://img.freepik.com/free-vector/shopping-supermarket-cart-with-grocery-pictogram_1284-11697.jpg"
     };
     
     // Add the new product to the array

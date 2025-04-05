@@ -30,7 +30,7 @@ const sampleProducts: Product[] = [
     contactEmail: "gurpreet@example.com",
     contactWhatsapp: "9876543210",
     dateAdded: "2023-04-01T10:30:00",
-    image: "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    image: "https://img.freepik.com/free-vector/shopping-supermarket-cart-with-grocery-pictogram_1284-11697.jpg"
   },
   {
     id: 2,
@@ -45,7 +45,7 @@ const sampleProducts: Product[] = [
     contactPhone: "8765432109",
     contactWhatsapp: "8765432109",
     dateAdded: "2023-04-02T14:45:00",
-    image: "https://images.unsplash.com/photo-1524593166156-312f362cada0?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    image: "https://img.freepik.com/free-vector/shopping-supermarket-cart-with-grocery-pictogram_1284-11697.jpg"
   },
   {
     id: 3,
@@ -60,7 +60,7 @@ const sampleProducts: Product[] = [
     contactPhone: "7654321098",
     contactEmail: "rajesh@example.com",
     dateAdded: "2023-04-03T09:15:00",
-    image: "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    image: "https://img.freepik.com/free-vector/shopping-supermarket-cart-with-grocery-pictogram_1284-11697.jpg"
   },
   {
     id: 4,
@@ -76,7 +76,7 @@ const sampleProducts: Product[] = [
     contactEmail: "priya@example.com",
     contactWhatsapp: "6543210987",
     dateAdded: "2023-04-04T16:20:00",
-    image: "https://img.freepik.com/free-photo/turmeric-powder_1323-401.jpg?t=st=1743895701~exp=1743899301~hmac=c47672c1f904535d2169b0abba47f6e52c12003e94b3ce62605df033ecf4c2d6&w=1380"
+    image: "https://img.freepik.com/free-vector/shopping-supermarket-cart-with-grocery-pictogram_1284-11697.jpg"
   },
   {
     id: 5,
@@ -91,7 +91,7 @@ const sampleProducts: Product[] = [
     contactPhone: "9876543210",
     contactWhatsapp: "9876543210",
     dateAdded: "2023-04-05T11:30:00",
-    image: "https://www.healthyorganic.in/cdn/shop/products/842_1_740x.jpg?v=1563382574"
+    image: "https://img.freepik.com/free-vector/shopping-supermarket-cart-with-grocery-pictogram_1284-11697.jpg"
   },
   {
     id: 6,
@@ -106,7 +106,7 @@ const sampleProducts: Product[] = [
     contactPhone: "8765432109",
     contactEmail: "anand@example.com",
     dateAdded: "2023-04-06T07:45:00",
-    image: "https://media.istockphoto.com/id/1297005860/photo/raw-milk-being-poured-into-container.jpg?s=612x612&w=0&k=20&c=5Xumh49_zYs9GjLkGpZXM41tS17K8M-svN9jLMv0JpE="
+    image: "https://img.freepik.com/free-vector/shopping-supermarket-cart-with-grocery-pictogram_1284-11697.jpg"
   }
 ];
 

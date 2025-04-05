@@ -76,7 +76,7 @@ const sampleProducts: Product[] = [
     contactEmail: "priya@example.com",
     contactWhatsapp: "6543210987",
     dateAdded: "2023-04-04T16:20:00",
-    image: "https://images.unsplash.com/photo-1615485500704-8e990f9925c9?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    image: "https://img.freepik.com/free-photo/turmeric-powder_1323-401.jpg?t=st=1743895701~exp=1743899301~hmac=c47672c1f904535d2169b0abba47f6e52c12003e94b3ce62605df033ecf4c2d6&w=1380"
   },
   {
     id: 5,
@@ -91,7 +91,7 @@ const sampleProducts: Product[] = [
     contactPhone: "9876543210",
     contactWhatsapp: "9876543210",
     dateAdded: "2023-04-05T11:30:00",
-    image: "https://images.unsplash.com/photo-1565647952915-45709a2554f5?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"
+    image: "https://www.healthyorganic.in/cdn/shop/products/842_1_740x.jpg?v=1563382574"
   },
   {
     id: 6,
@@ -105,7 +105,8 @@ const sampleProducts: Product[] = [
     contactName: "Anand Patel",
     contactPhone: "8765432109",
     contactEmail: "anand@example.com",
-    dateAdded: "2023-04-06T07:45:00"
+    dateAdded: "2023-04-06T07:45:00",
+    image: "https://media.istockphoto.com/id/1297005860/photo/raw-milk-being-poured-into-container.jpg?s=612x612&w=0&k=20&c=5Xumh49_zYs9GjLkGpZXM41tS17K8M-svN9jLMv0JpE="
   }
 ];
 
